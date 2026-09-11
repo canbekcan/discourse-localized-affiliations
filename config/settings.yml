@@ -1,0 +1,4 @@
+plugins:
+  localized_affiliations_enabled:
+    default: true
+    client: true

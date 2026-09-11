@@ -1,0 +1,8 @@
+{
+  "name": "discourse-localized-affiliations",
+  "about_url": "https://github.com/canbekcan/discourse-localized-affiliations",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "version": "1.0.0",
+  "authors": "Can Bekcan",
+  "description": "Automatically resolves and applies a user's institutional affiliation based on their email domain, with multi-language support."
+}
