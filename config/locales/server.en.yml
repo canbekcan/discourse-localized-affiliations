@@ -3,6 +3,7 @@ en:
     localized_affiliations_enabled: "Enable automatic affiliation resolution based on email domain"
   localized:
     institutions:
+      "bekcan.com": "BEKCAN Institute"
       "emu.edu.tr": "Eastern Mediterranean University"
       "boun.edu.tr": "Boğaziçi University"
       "metu.edu.tr": "Middle East Technical University"

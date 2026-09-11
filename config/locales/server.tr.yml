@@ -3,6 +3,7 @@ tr:
     localized_affiliations_enabled: "E-posta uzantısına göre otomatik kurum belirlemeyi etkinleştir"
   localized:
     institutions:
+      "bekcan.com": "BEKCAN Enstitüsü"
       "emu.edu.tr": "Doğu Akdeniz Üniversitesi"
       "boun.edu.tr": "Boğaziçi Üniversitesi"
       "metu.edu.tr": "Orta Doğu Teknik Üniversitesi"
