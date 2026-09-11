@@ -2,6 +2,8 @@ en:
   site_settings:
     localized_affiliations_enabled: "Enable automatic affiliation resolution based on email domain"
   localized:
+    field_name: "Affiliation"
+    field_description: "Institution assigned automatically based on your email domain."
     institutions:
       "bekcan.com": "BEKCAN Institute"
       "emu.edu.tr": "Eastern Mediterranean University"
