@@ -2,8 +2,8 @@ tr_TR:
   site_settings:
     localized_affiliations_enabled: "E-posta uzantısına göre otomatik kurum belirlemeyi etkinleştir"
   localized:
-    field_name: "Kurum / Üniversite"
-    field_description: "E-posta uzantınıza göre otomatik tanımlanan kurumunuz."
+    field_name: "Kurum"
+    field_description: "E-posta uzantınıza göre otomatik tanımlannır."
     institutions:
       "bekcan.com": "BEKCAN Enstitüsü"
       "emu.edu.tr": "Doğu Akdeniz Üniversitesi"
